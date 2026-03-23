@@ -1,0 +1,96 @@
+body {
+  background-color: #2b5cac;
+}
+.kollp {
+  color: white;
+  text-align: center;
+}
+.rasm {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  border-radius: 15px;
+}
+.soz {
+  color: white;
+  text-align: center;
+}
+.davr {
+  border: 1px solid white;
+  color: white;
+  background-color: #ffae00;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid white;
+}
+.loo {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+}
+.lo {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+}
+.loop {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+}
+.loopp {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+}
+.olo {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+}
+.oloo {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+}
+.di {
+  background-color: #ffae00;
+  color: white;
+  width: 1000px;
+}
+.so {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
+.soo {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
+.sooo {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
+.po {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
+.poo {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
+.pol {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
